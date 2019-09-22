@@ -1,0 +1,8 @@
+{
+  "name": "immix",
+  "version": "0.0.1",
+  "main": "index.ts",
+  "repository": "git@github.com:132yse/immix.git",
+  "author": "132yse <1533540012@qq.com>",
+  "license": "MIT"
+}
